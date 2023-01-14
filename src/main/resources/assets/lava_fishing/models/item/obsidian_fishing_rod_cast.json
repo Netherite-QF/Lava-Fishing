@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld_rod",
+    "textures": {
+      "layer0": "lava_fishing:item/obsidian_fishing_rod_cast"
+    }
+}

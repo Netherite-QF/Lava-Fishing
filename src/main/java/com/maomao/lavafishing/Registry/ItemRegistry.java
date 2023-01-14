@@ -9,6 +9,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 import static com.maomao.lavafishing.LavaFishingMod.MODID;
+
 @SuppressWarnings("unused")
 public interface ItemRegistry {
 	Map<Identifier, Item> ITEMS = new LinkedHashMap<>();

@@ -9,7 +9,6 @@ public class EndlessFlameEffect extends StatusEffect {
     public EndlessFlameEffect() {
         super(StatusEffectType.HARMFUL, 0xCC3300);
     }
-
     @Override
     public boolean canApplyUpdateEffect(int duration, int amplifier) {
         return true;

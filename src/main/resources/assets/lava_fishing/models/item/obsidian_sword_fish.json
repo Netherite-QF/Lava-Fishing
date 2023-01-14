@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "lavafishing:item/arowana_fish"
+    "layer0": "lava_fishing:item/obsidian_sword_fish"
   }
 }
